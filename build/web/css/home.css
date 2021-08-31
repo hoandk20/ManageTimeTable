@@ -1,0 +1,79 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 5, 2021, 7:05:52 PM
+    Author     : hoandk
+*/
+
+.nameTextBox a{
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.inputDate input{
+    cursor: pointer;
+    width: 220px;
+    height: 30px;
+}
+.btn-search{
+    margin-left: 10px;
+    
+}
+.btn-search input{
+    height: 40px;
+     border: none;
+    width: 70px;
+    background-color: #34b1eb;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.table{
+    margin-top: 30px;
+}
+.table th{
+    font-family: sans-serif;
+    border: 1px solid #d7dbe0;
+    background-color: white;
+    height: 30px;
+}
+.table td{
+    font-family: sans-serif;
+    border: 0.5px solid #d7dbe0;
+    background-color: #d7dbe0;
+    height: 30px;
+    text-align: center;
+}
+.slot{
+width:   100px;  
+}
+.date{
+    width: 280px;
+}
+.time{
+    width: 200px;
+}
+.class{
+   width: 200px; 
+   
+}
+.class a{
+    color: #5b73eb;
+}
+.teacher{
+    width:   130px; 
+}
+.room{
+    width:   100px; 
+}
+.link{
+    font-family: sans-serif;
+    text-decoration: none;
+    color: blue;
+}
+
+
+
+

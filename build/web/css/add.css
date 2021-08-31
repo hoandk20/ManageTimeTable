@@ -1,0 +1,64 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 5, 2021, 8:15:26 PM
+    Author     : hoandk
+*/
+.text-input{
+    font-family: sans-serif;
+    position: absolute;
+}
+form input{
+    height: 25px;
+    width: 400px;
+    margin-left: 100px;
+}
+form select{
+    margin-left: 100px;
+    height: 25px;
+    width: 400px;
+}
+h3{
+    font-family: sans-serif;
+    padding-left: 20px;
+}
+.btn-save input{
+    margin-top: 35px;
+    height: 40px;
+    border: none;
+    width: 70px;
+    background-color: #34b1eb;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.date{
+    border-left: 100px;
+    background-color: #dfe6e5;
+}
+.container{
+    border-radius: 20px;
+    padding-top: 10px;
+    background-color: white;
+    height: 550px;
+    width: 1100px;
+}
+body{
+    background-color: #e6ebea;
+}
+.input-even{
+    background-color: #e6ebea;
+    padding-left: 20px;
+    margin-top: 20px;
+    padding-top: 25px;
+    padding-bottom:  20px;
+    height: 30px;
+    width: 520px
+}
+.input-odd{
+    padding-left: 20px;
+    margin-top: 20px; 
+}
